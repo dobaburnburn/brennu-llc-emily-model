@@ -1,0 +1,7 @@
+{
+  "name": "xr-xyz-brennu-llc",
+  "description": "This interactive demo highlights Gemini and Grounding with Google Maps' ability to engage in real-time, voice-driven conversations. Plan a day trip using natural language and experience how Gemini leverages Google Maps to deliver accurate, up-to-the-minute information. Earn sBTC, LMWR, and ProCoins by verifying landscapes! buillt by brennu llc using h20-suncrawler-offline-alpha-omega",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
